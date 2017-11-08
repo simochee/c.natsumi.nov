@@ -15,7 +15,7 @@ int main(void)
   // 結果を出力
   printf("100000までの素数は%d個あります\n", count);
   
-  return (0);A
+  return (0);
 }
 
 // nが素数かどうかを判定し、
